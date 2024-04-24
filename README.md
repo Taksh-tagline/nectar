@@ -1,4 +1,4 @@
-# nectar
+# nectar Groceries App
 
 A new Flutter project.
 
