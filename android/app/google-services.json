@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "30693532203",
+    "project_id": "nectar-bbe2b",
+    "storage_bucket": "nectar-bbe2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30693532203:android:267a212ce01d8be843006e",
+        "android_client_info": {
+          "package_name": "com.example.nectar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30693532203-efekus1kahgl9cu20iisl8mb2opon8jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nectar",
+            "certificate_hash": "f28c4a3b338c5969d95e4f12341103a68f0294fe"
+          }
+        },
+        {
+          "client_id": "30693532203-nudo2gh0b5i2u7h02cu23r728rrghkht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZjBbMVvwoZNx3Cx5fkcm7GpsJmnVmvLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30693532203-nudo2gh0b5i2u7h02cu23r728rrghkht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30693532203-3mo8msa486ic275iduvnhuipqsu50ocl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nectar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
